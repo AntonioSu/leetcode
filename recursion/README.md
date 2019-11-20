@@ -9,10 +9,14 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/79.WordSearch.md
 * 无返回值类型，通过传参解决
 https://github.com/AntonioSu/leetcode/blob/master/problems/39.CombinationSum.md
 
-* 整个遍历
-1.for循环
-for (int i = index; i < candidates.size(); i++) //起始位置是不断变化的
-https://github.com/AntonioSu/leetcode/blob/master/problems/40.CombinationSumII.md
+* 整个遍历  
+1.for循环--起始位置是不断变化的  for (int i = index; i < candidates.size(); i++) 
+
+有重复的数字，求和等于某值：https://github.com/AntonioSu/leetcode/blob/master/problems/40.CombinationSumII.md  
+无重复数字全排列：https://github.com/AntonioSu/leetcode/blob/master/problems/46.Permutations.md  
+有重复数字全排列：https://github.com/AntonioSu/leetcode/blob/master/problems/47.PermutationsII.md  
+
+
 
 2.使用index，每一向前移动1
 https://github.com/AntonioSu/leetcode/blob/master/problems/39.CombinationSum.md
