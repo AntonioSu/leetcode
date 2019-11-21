@@ -5,9 +5,11 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/50.Pow(x,n).md
 
 * 整个遍历，返回型是bool  
 https://github.com/AntonioSu/leetcode/blob/master/problems/79.WordSearch.md
+https://github.com/AntonioSu/leetcode/blob/master/problems/416.PartitionEqualSubsetSum.md //尽量少递归，做好剪枝 
 
 * 无返回值类型，通过传参解决
 https://github.com/AntonioSu/leetcode/blob/master/problems/39.CombinationSum.md
+
 
 * 整个遍历  
 1.for循环--起始位置是不断变化的  for (int i = index; i < candidates.size(); i++) 
