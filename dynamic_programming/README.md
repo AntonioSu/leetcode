@@ -24,6 +24,7 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/312.BurstBalloons.md
 
 **4.dp[i] [j]表示只是记录中间结果，最值不在数组中，需要保存一个max，或者min**   
 https://github.com/AntonioSu/leetcode/blob/master/problems/221.MaximalSquare.md
+https://github.com/AntonioSu/leetcode/blob/master/problems/85.MaximalRectangle.md
 
 **5.符合特定条件的转移方程** 
 https://github.com/AntonioSu/leetcode/blob/master/problems/72.EditDistance.md
