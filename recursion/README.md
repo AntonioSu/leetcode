@@ -2,6 +2,7 @@
 
 * 有返回值类型  
 https://github.com/AntonioSu/leetcode/blob/master/problems/50.Pow(x,n).md  
+https://github.com/AntonioSu/leetcode/blob/master/problems/38.CountandSay.md  
 
 * 整个遍历，返回型是bool  
 https://github.com/AntonioSu/leetcode/blob/master/problems/79.WordSearch.md
@@ -12,8 +13,7 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/39.CombinationSum.md
 
 
 * 整个遍历  
-1.for循环--起始位置是不断变化的  for (int i = index; i < candidates.size(); i++) 
-
+1.for循环--起始位置是不断变化的，写法：for (int i = index; i < candidates.size(); i++) 
 有重复的数字，求和等于某值：https://github.com/AntonioSu/leetcode/blob/master/problems/40.CombinationSumII.md  
 无重复数字全排列：https://github.com/AntonioSu/leetcode/blob/master/problems/46.Permutations.md  
 有重复数字全排列：https://github.com/AntonioSu/leetcode/blob/master/problems/47.PermutationsII.md  
