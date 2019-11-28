@@ -7,6 +7,7 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/38.CountandSay.md
 * 整个遍历，返回型是bool  
 https://github.com/AntonioSu/leetcode/blob/master/problems/79.WordSearch.md
 https://github.com/AntonioSu/leetcode/blob/master/problems/416.PartitionEqualSubsetSum.md //尽量少递归，做好剪枝 
+https://github.com/AntonioSu/leetcode/blob/master/problems/207.CourseSchedule.md  //判断是否有环
 
 * 无返回值类型，通过传参解决
 https://github.com/AntonioSu/leetcode/blob/master/problems/39.CombinationSum.md
