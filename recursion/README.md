@@ -3,6 +3,7 @@
 * 有返回值类型  
 https://github.com/AntonioSu/leetcode/blob/master/problems/50.Pow(x,n).md  
 https://github.com/AntonioSu/leetcode/blob/master/problems/38.CountandSay.md  
+https://github.com/AntonioSu/leetcode/blob/master/problems/230.KthSmallestElementinaBST.md
 
 * 整个遍历，返回型是bool  
 https://github.com/AntonioSu/leetcode/blob/master/problems/79.WordSearch.md
