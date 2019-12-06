@@ -6,7 +6,7 @@
 53. Maximum Subarray
 198. House Robber #rob(i) = max(rob(i-2)+currentHouseValue,rob(i - 1))
 718.Maximum Length of Repeated Subarray 
-//samecount[row][col]=samecount[row-1][col-1]+1;
+//samecount [ row ] [ col]=samecount[row-1] [col-1]+1;
 
 给定二维矩阵，矩阵中不同的整数值，找到一条最短路径，只能右、下。
 https://github.com/AntonioSu/leetcode/blob/master/problems/64.MinimumPathSum.md  
