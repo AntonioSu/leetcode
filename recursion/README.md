@@ -19,7 +19,7 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/39.CombinationSum.md
 有重复的数字，求和等于某值：https://github.com/AntonioSu/leetcode/blob/master/problems/40.CombinationSumII.md  
 无重复数字全排列：https://github.com/AntonioSu/leetcode/blob/master/problems/46.Permutations.md  
 有重复数字全排列：https://github.com/AntonioSu/leetcode/blob/master/problems/47.PermutationsII.md  
-
+将整个字符串分割为单个是回文的字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/131.PalindromePartitioning.md   
 
 
 2.使用index，每一向前移动1
