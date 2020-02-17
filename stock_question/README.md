@@ -6,6 +6,6 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/121.BestTimetoBuyandS
 可以买卖多次：只要将后面大于前面的相加则可得出最终结果
 https://github.com/AntonioSu/leetcode/blob/master/problems/122.BestTimetoBuyandSellStockII.md
 
-设置三个状态转移  
+设置三个状态转移，每个状态均保持当前最大值，按照要求更改数组
 https://github.com/AntonioSu/leetcode/blob/master/problems/309.BestTimetoBuyandSellStockwithCooldown.md 
 
