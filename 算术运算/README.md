@@ -26,7 +26,7 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/445.AddTwoNumbersII.m
 
 
 
-#### 3.乘法运算**
+#### 3.乘法运算
 
 **大整数乘法**：给定两个string整数，返回相乘的结果的string
 https://github.com/AntonioSu/leetcode/blob/master/problems/43.MultiplyStrings.md
