@@ -8,13 +8,18 @@
 
 **加法运算**
 
-相加两个只包含数字的string，并返回string，是对应的十进制数相加；和下面的二进制数相加思路一样。
+大整数加法：相加两个只包含数字的string，并返回string，是对应的十进制数相加；和下面的二进制数相加思路一样。
 https://github.com/AntonioSu/leetcode/blob/master/problems/415.AddStrings.md
 
-将两个二进制数相加，给定的是string；
+将两个二进制数相加，给定的是string，并返回string
 https://github.com/AntonioSu/leetcode/blob/master/problems/67.AddBinary.md
+
+给定整型的数组和整型值，将其相加，返回vector;
+https://github.com/AntonioSu/leetcode/blob/master/problems/989.AddtoArray-FormofInteger.md
+
 
 
 **乘法运算**
 
-
+大整数乘法：给定两个string整数，返回相乘的结果的string
+https://github.com/AntonioSu/leetcode/blob/master/problems/43.MultiplyStrings.md
