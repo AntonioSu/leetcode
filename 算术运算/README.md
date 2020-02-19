@@ -14,10 +14,11 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/415.AddStrings.md
 **二进制数加法**：将两个二进制数相加，给定的是string，并返回string
 https://github.com/AntonioSu/leetcode/blob/master/problems/67.AddBinary.md
 
-给定整型的数组和整型值，将其相加，返回vector;
+**加法运算**：给定整型的数组和整型值，将其相加，返回vector;
 https://github.com/AntonioSu/leetcode/blob/master/problems/989.AddtoArray-FormofInteger.md
 
-
+**数字相加**：给定的两个数值存储在链表中
+https://github.com/AntonioSu/leetcode/blob/master/problems/2.AddTwoNumbers.md
 
 #### **3.乘法运算**
 
