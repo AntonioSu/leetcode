@@ -14,7 +14,10 @@ Output: -1
 ```
 Note:  
 You may assume that you have an infinite number of each kind of coin.
-```
+
+解法一：动态规划，利用二维矩阵保存值
+
+```c++
 class Solution {
 public:
     Solution(){}
@@ -44,3 +47,25 @@ public:
     }
 };
 ```
+
+解法二：动态规划；求的amount所有的值，并保存，
+
+```c++
+class Solution {
+public:
+    int coinChange(vector<int>& coins, int amount) {
+        //对应的值为INT_MAX-1，否则对于不存在情况，会越界
+        //dp[i]记录和为i的所需的最少硬币
+        vector<int> dp(amount+1,INT_MAX-1);
+        dp[0]=0;
+        for (int i = 1; i <=amount ; ++i) {
+            for (auto item:coins) {
+                //考虑两种情况，当前值和加上item的情况
+                if(i>=item)dp[i]=min(dp[i],dp[i-item]+1);
+            }
+        }
+        return dp[amount]==INT_MAX-1?-1:dp[amount];
+    }
+};
+```
+
