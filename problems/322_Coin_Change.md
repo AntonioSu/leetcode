@@ -15,6 +15,9 @@ Output: -1
 Note:  
 You may assume that you have an infinite number of each kind of coin.
 
+**难度系数**    
+Medium
+
 解法一：动态规划，利用二维矩阵保存值
 
 ```c++
