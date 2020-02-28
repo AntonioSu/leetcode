@@ -1,17 +1,25 @@
-### **遍历**
-#### **前序遍历**
+### 树类题目
+#### **1.树的遍历**
 
-题目：144.BinaryTreePreorderTraversal.md  
-代码：https://github.com/AntonioSu/leetcode/blob/master/problems/144.BinaryTreePreorderTraversal.md
-#### **中序遍历** 
+**1)前序遍历**
 
-https://github.com/AntonioSu/leetcode/blob/master/problems/94.BinaryTreeInorderTraversal.md
-BST，第k个最小的值  
-https://github.com/AntonioSu/leetcode/blob/master/problems/230.KthSmallestElementinaBST.md
+前序遍历：https://github.com/AntonioSu/leetcode/blob/master/problems/144.BinaryTreePreorderTraversal.md
+
+**2)中序遍历** 
+
+中序遍历：https://github.com/AntonioSu/leetcode/blob/master/problems/94.BinaryTreeInorderTraversal.md
 
 
-#### **后序遍历**
-题目：145.BinaryTreePostorderTraversal.md  
-代码：https://github.com/AntonioSu/leetcode/blob/master/problems/145.BinaryTreePostorderTraversal.md
-#### **层次遍历**
+**3)后序遍历**
 
+后序遍历：https://github.com/AntonioSu/leetcode/blob/master/problems/145.BinaryTreePostorderTraversal.md 
+
+**4)层次遍历**
+
+
+
+#### **2.BST**
+
+给定二叉搜索树，第k个最小的值 :https://github.com/AntonioSu/leetcode/blob/master/problems/230.KthSmallestElementinaBST.md  
+二叉搜索树中查找值：https://github.com/AntonioSu/leetcode/blob/master/problems/700.SearchinaBinarySearchTree.md  
+给定二叉搜索树，插入值：https://github.com/AntonioSu/leetcode/blob/master/problems/701.InsertintoaBinarySearchTree.md
