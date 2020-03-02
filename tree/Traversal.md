@@ -23,3 +23,7 @@
 给定二叉搜索树，第k个最小的值 :https://github.com/AntonioSu/leetcode/blob/master/problems/230.KthSmallestElementinaBST.md  
 二叉搜索树中查找值：https://github.com/AntonioSu/leetcode/blob/master/problems/700.SearchinaBinarySearchTree.md  
 给定二叉搜索树，插入值：https://github.com/AntonioSu/leetcode/blob/master/problems/701.InsertintoaBinarySearchTree.md
+
+
+
+完全二叉树的节点个数；只要把左子树和右子树的节点个数相加在加根节点个数即可：https://github.com/AntonioSu/leetcode/blob/master/problems/222.CountCompleteTreeNodes.md 
