@@ -5,3 +5,7 @@
 逆转指定区间的链表：https://github.com/AntonioSu/leetcode/blob/master/problems/92.ReverseLinkedListII.md 
 
 将两个有序链表合并到一起：https://github.com/AntonioSu/leetcode/blob/master/problems/21.MergeTwoSortedLists.md 
+
+将一个数组的有序链表合并到一起：https://github.com/AntonioSu/leetcode/blob/master/problems/23.MergekSortedLists.md 
+
+给链表排序；用vector存储值，利用快排：https://github.com/AntonioSu/leetcode/blob/master/problems/148.SortList.md 
