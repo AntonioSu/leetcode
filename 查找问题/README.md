@@ -9,8 +9,14 @@
 
 **查找峰值问题**
 
-1.查找峰值下标，只有一个峰值；https://github.com/AntonioSu/leetcode/blob/master/problems/852.PeakIndexinaMountainArray.md  
+1.查找峰值下标，只有一个峰值；二分查找，通过比较相邻的两个数，确定峰值在那一边：https://github.com/AntonioSu/leetcode/blob/master/problems/852.PeakIndexinaMountainArray.md  
 2.查找峰值下标，存在多个峰值；二分查找：https://github.com/AntonioSu/leetcode/blob/master/problems/162.FindPeakElement.md
+
+
+
+寻找第K大的数值；使用大小为K的堆，或者是快排：https://github.com/AntonioSu/leetcode/blob/master/problems/215.KthLargestElementinanArray.md 
+
+寻找K个常见的数值；利用最大值堆：https://github.com/AntonioSu/leetcode/blob/master/problems/347.TopKFrequentElements.md 
 
 
 
