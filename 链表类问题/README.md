@@ -15,3 +15,4 @@
 
 给链表排序；用vector存储值，利用快排：https://github.com/AntonioSu/leetcode/blob/master/problems/148.SortList.md   
 
+将链表首一个尾一个变成一个新的链表：https://github.com/AntonioSu/leetcode/blob/master/problems/143.ReorderList.md 
