@@ -31,9 +31,12 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/312.BurstBalloons.md
 
 
 
-**五、符合特定条件的转移方程**   
-通过插入、删除、替换改变一个字符串使其相等于另一个字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/72.EditDistance.md  
+**五、边界距离问题**
+
+换改变一个字符串使其相等于另一个字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/72.EditDistance.md  
 删除两个字符串中的字符，使其相等：https://github.com/AntonioSu/leetcode/blob/master/problems/583.DeleteOperationforTwoStrings.md 
+
+删除第一个字符串中的字符，使两个字符串相等，求最长的字符串的长度：https://github.com/AntonioSu/leetcode/blob/master/problems/1143.LongestCommonSubsequence.md 
 
 120. Triangle
 
