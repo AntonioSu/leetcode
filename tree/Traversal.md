@@ -24,7 +24,7 @@
 二叉搜索树中查找值：https://github.com/AntonioSu/leetcode/blob/master/problems/700.SearchinaBinarySearchTree.md  
 给定二叉搜索树，插入值：https://github.com/AntonioSu/leetcode/blob/master/problems/701.InsertintoaBinarySearchTree.md  
 最近公共父节点：https://github.com/AntonioSu/leetcode/blob/master/problems/235.LowestCommonAncestorofaBinarySearchTree.md 
-
+判断是否是二叉搜索树：https://github.com/AntonioSu/leetcode/blob/master/problems/98.ValidateBinarySearchTree.md
 
 
 找到最近公共父节点：https://github.com/AntonioSu/leetcode/blob/master/problems/236.LowestCommonAncestorofaBinaryTree.md 
