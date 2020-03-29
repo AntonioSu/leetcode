@@ -24,19 +24,18 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/312.BurstBalloons.md
 
 
 **四、矩形最大化问题**   
-给定二维数组，正方形面积最大；动态规划，主要记录左边、上边、左上边的最小值：https://github.com/AntonioSu/leetcode/blob/master/problems/221.MaximalSquare.md
-给定二维数组，子矩形面积最大;把为1的值加到后一列，得到了长方形的长，再通过循环寻找宽即可：https://github.com/AntonioSu/leetcode/blob/master/problems/85.MaximalRectangle.md
-给定二维数组，子矩阵的和最大 ;先把每行的值加到下一行，而后就是连续数组最大值：https://github.com/AntonioSu/leetcode/blob/master/problems/%E9%9D%A2%E8%AF%95%E9%A2%9817.24.%E6%9C%80%E5%A4%A7%E5%AD%90%E7%9F%A9%E9%98%B5.md (https://github.com/AntonioSu/leetcode/blob/master/problems/面试题17.24.最大子矩阵.md)
+给定二维数组，正方形面积最大；动态规划，主要记录左边、上边、左上边的最小值：https://github.com/AntonioSu/leetcode/blob/master/problems/221.MaximalSquare.md  
+给定二维数组，子矩形面积最大;把为1的值加到后一列，得到了长方形的长，再通过循环寻找宽即可：https://github.com/AntonioSu/leetcode/blob/master/problems/85.MaximalRectangle.md  
+给定二维数组，子矩阵的和最大 ;先把每行的值加到下一行，而后就是连续数组最大值：https://github.com/AntonioSu/leetcode/blob/master/problems/%E9%9D%A2%E8%AF%95%E9%A2%9817.24.%E6%9C%80%E5%A4%A7%E5%AD%90%E7%9F%A9%E9%98%B5.md (https://github.com/AntonioSu/leetcode/blob/master/problems/面试题17.24.最大子矩阵.md)  
 给定数组，求矩形最大面积：https://github.com/AntonioSu/leetcode/blob/master/problems/84.LargestRectangleinHistogram.md
 
 
 
 **五、边界距离问题**
 
-换改变一个字符串使其相等于另一个字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/72.EditDistance.md  
-删除两个字符串中的字符，使其相等：https://github.com/AntonioSu/leetcode/blob/master/problems/583.DeleteOperationforTwoStrings.md 
-
-删除第一个字符串中的字符，使两个字符串相等，求最长的字符串的长度：https://github.com/AntonioSu/leetcode/blob/master/problems/1143.LongestCommonSubsequence.md 
+换、改、变三种操作，使两个字符串相等，求最短的编辑距离：https://github.com/AntonioSu/leetcode/blob/master/problems/72.EditDistance.md  
+删除两个字符串中的字符，使其相等：https://github.com/AntonioSu/leetcode/blob/master/problems/583.DeleteOperationforTwoStrings.md   
+只能删除第一个字符串中的字符，求最长的公共子串的长度：https://github.com/AntonioSu/leetcode/blob/master/problems/1143.LongestCommonSubsequence.md 
 
 120. Triangle
 
