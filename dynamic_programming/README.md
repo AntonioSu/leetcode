@@ -1,14 +1,19 @@
 #### **动态规划题目**
 
-**一、其中dp[i]表示i节点的最终要求**  
+**一、其中dp[i]表示i节点的最终要求，i指示的是位置**  
 1.连续子数组的和最大：https://github.com/AntonioSu/leetcode/blob/master/problems/53.MaximumSubarray.md  
 2.爬楼梯；step[i]=step[i-1]+step[i-2]：https://github.com/AntonioSu/leetcode/blob/master/problems/70.ClimbingStairs.md  
 3.抢劫房屋，不偷相邻的：rob(i) = max(rob(i-2)+currentHouseValue,rob(i - 1))：https://github.com/AntonioSu/leetcode/blob/master/problems/198.HouseRobber.md  
 4.给定两个数组，找最长公共长度；samecount[row] [col]=samecount[row-1] [col-1]+1：https://github.com/AntonioSu/leetcode/blob/master/problems/718.MaximumLengthofRepeatedSubarray.md  
+5.求到第row行路径最短：https://github.com/AntonioSu/leetcode/blob/master/problems/120.Triangle.md 
 
-5.给定两个数，表示m行n列，只能向右、向下从左上角到右下角，这样的路径数：https://github.com/AntonioSu/leetcode/blob/master/problems/62.UniquePaths.md  
-6.给定二维矩阵，矩阵中不同的整数值，找到一条最短路径，只能右、下：https://github.com/AntonioSu/leetcode/blob/master/problems/64.MinimumPathSum.md   
-7.给定二维矩阵，矩阵中不同的整数值，找到一条最短路径，只能右、下，加入了阻挡：https://github.com/AntonioSu/leetcode/blob/master/problems/63.UniquePathsII.md
+
+
+6.给定两个数，表示m行n列，只能向右、向下从左上角到右下角，这样的路径数：https://github.com/AntonioSu/leetcode/blob/master/problems/62.UniquePaths.md  
+7.给定二维矩阵，矩阵中不同的整数值，找到一条最短路径，只能右、下：https://github.com/AntonioSu/leetcode/blob/master/problems/64.MinimumPathSum.md   
+8.给定二维矩阵，矩阵中不同的整数值，找到一条最短路径，只能右、下，加入了阻挡：https://github.com/AntonioSu/leetcode/blob/master/problems/63.UniquePathsII.md
+
+
 
 **二、背包问题——下标具有意义**    
 1.给定各种钱币面值，求需要最少的硬币和为给定值：https://github.com/AntonioSu/leetcode/blob/master/problems/322_Coin_Change.md  
@@ -36,6 +41,4 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/312.BurstBalloons.md
 换、改、变三种操作，使两个字符串相等，求最短的编辑距离：https://github.com/AntonioSu/leetcode/blob/master/problems/72.EditDistance.md  
 删除两个字符串中的字符，使其相等：https://github.com/AntonioSu/leetcode/blob/master/problems/583.DeleteOperationforTwoStrings.md   
 只能删除第一个字符串中的字符，求最长的公共子串的长度：https://github.com/AntonioSu/leetcode/blob/master/problems/1143.LongestCommonSubsequence.md 
-
-120. Triangle
 
