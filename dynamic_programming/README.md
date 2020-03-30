@@ -23,6 +23,8 @@
 1) j<V(i)      dp(i,j)=dp(i-1,j)  // 如果当前容量小于第i个物品的重量，则不会装入此物品，故而最大价值仍然为V(i-1,j)  
 2) j>=V(i)     dp(i,j)=max｛ dp(i-1,j)，dp(i-1,j-V(i))+P(i) ｝//表示装入物品，但同时需要预留V(i)空间，才可装入当前物品，但是装入不一定价值最大，所以需要比较 
 
+
+
 **三、dp[i] [j]表示i，j之间具有的最值**   
 https://github.com/AntonioSu/leetcode/blob/master/problems/312.BurstBalloons.md  
 
@@ -36,9 +38,16 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/312.BurstBalloons.md
 
 
 
-**五、边界距离问题**
+**五、编辑距离问题**
 
 换、改、变三种操作，使两个字符串相等，求最短的编辑距离：https://github.com/AntonioSu/leetcode/blob/master/problems/72.EditDistance.md  
 删除两个字符串中的字符，使其相等：https://github.com/AntonioSu/leetcode/blob/master/problems/583.DeleteOperationforTwoStrings.md   
 只能删除第一个字符串中的字符，求最长的公共子串的长度：https://github.com/AntonioSu/leetcode/blob/master/problems/1143.LongestCommonSubsequence.md 
+
+
+
+**六、正则匹配问题**
+
+给定字符串和正则表达式，判断是否匹配：https://github.com/AntonioSu/leetcode/blob/master/problems/10.RegularExpressionMatching.md    
+给定字符串和正则表达式，判断是否匹配：https://github.com/AntonioSu/leetcode/blob/master/problems/44.WildcardMatching.md 
 
