@@ -7,11 +7,7 @@
 4.给定两个字符串，找最长公共子串的长度；samecount[row] [col]=samecount[row-1] [col-1]+1：https://github.com/AntonioSu/leetcode/blob/master/problems/718.MaximumLengthofRepeatedSubarray.md  
 5.求到第row行路径最短：https://github.com/AntonioSu/leetcode/blob/master/problems/120.Triangle.md 
 
-
-
-6.给定两个数，表示m行n列，只能向右、向下从左上角到右下角，这样的路径数：https://github.com/AntonioSu/leetcode/blob/master/problems/62.UniquePaths.md  
-7.给定二维矩阵，矩阵中不同的整数值，找到一条最短路径，只能右、下：https://github.com/AntonioSu/leetcode/blob/master/problems/64.MinimumPathSum.md   
-8.给定二维矩阵，矩阵中不同的整数值，找到一条最短路径，只能右、下，加入了阻挡：https://github.com/AntonioSu/leetcode/blob/master/problems/63.UniquePathsII.md
+6.给定词组和字符串，求是否通过词组的组合变成字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/139.WordBreak.md 
 
 
 
@@ -25,8 +21,10 @@
 
 
 
-**三、dp[i] [j]表示i，j之间具有的最值**   
-https://github.com/AntonioSu/leetcode/blob/master/problems/312.BurstBalloons.md  
+**三、从左上角到右下角走法**  
+1.给定两个数，表示m行n列，只能向右、向下从左上角到右下角，这样的路径数：https://github.com/AntonioSu/leetcode/blob/master/problems/62.UniquePaths.md  
+2.给定二维矩阵，矩阵中不同的整数值，找到一条最短路径，只能右、下：https://github.com/AntonioSu/leetcode/blob/master/problems/64.MinimumPathSum.md   
+3.给定二维矩阵，矩阵中不同的整数值，找到一条最短路径，只能右、下，加入了阻挡：https://github.com/AntonioSu/leetcode/blob/master/problems/63.UniquePathsII.md
 
 
 
@@ -51,3 +49,6 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/312.BurstBalloons.md
 给定字符串和正则表达式，判断是否匹配：https://github.com/AntonioSu/leetcode/blob/master/problems/10.RegularExpressionMatching.md    
 给定字符串和正则表达式，判断是否匹配：https://github.com/AntonioSu/leetcode/blob/master/problems/44.WildcardMatching.md 
 
+
+
+https://github.com/AntonioSu/leetcode/blob/master/problems/312.BurstBalloons.md 
