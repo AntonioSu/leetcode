@@ -19,6 +19,8 @@
 1) j<V(i)      dp(i,j)=dp(i-1,j)  // 如果当前容量小于第i个物品的重量，则不会装入此物品，故而最大价值仍然为V(i-1,j)  
 2) j>=V(i)     dp(i,j)=max｛ dp(i-1,j)，dp(i-1,j-V(i))+P(i) ｝//表示装入物品，但同时需要预留V(i)空间，才可装入当前物品，但是装入不一定价值最大，所以需要比较 
 
+3.给定数字，将其写成是和的形式，求其中和中每个值乘积最大：https://github.com/AntonioSu/leetcode/blob/master/problems/343.IntegerBreak.md 
+
 
 
 **三、从左上角到右下角走法**  
