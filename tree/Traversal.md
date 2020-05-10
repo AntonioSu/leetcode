@@ -17,7 +17,9 @@
 
 **4)层次遍历**
 
+按层输出值：https://github.com/AntonioSu/leetcode/blob/master/problems/102.BinaryTreeLevelOrderTraversal.md 
 
+zigzag遍历方法：https://github.com/AntonioSu/leetcode/blob/master/problems/103.BinaryTreeZigzagLevelOrderTraversal.md 
 
 #### **2.BST**
 
