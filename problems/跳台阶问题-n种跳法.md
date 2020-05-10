@@ -33,6 +33,14 @@ Output: 32
 **难度系数**    
 Medium
 
+
+
+Fib(n) = Fib(0)+Fib(1)+Fib(2)+.......+Fib(n-1)
+
+Fib(n-1)=Fib(0)+Fib(1)+Fib(2)+.......+Fib(n-2)
+
+两式相减得：Fib(n)-Fib(n-1)=Fib(n-1) -> Fib(n) = 2*Fib(n-1)  ，可以得出是等比数列。
+
 解法一：递归解法
 ```c++
 int solution(int n){
