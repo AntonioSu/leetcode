@@ -1,5 +1,5 @@
 #### 链表问题
-链表问题一般有逆转、合并、排序是否有环等问题
+链表问题一般有逆转、合并、排序、是否有环等问题
 
 **逆转**
 
@@ -17,6 +17,10 @@
 
 将链表首一个尾一个变成一个新的链表：https://github.com/AntonioSu/leetcode/blob/master/problems/143.ReorderList.md 
 
+**其他**
 
+找寻两个链表公共开始节点：https://github.com/AntonioSu/leetcode/blob/master/problems/160.IntersectionofTwoLinkedLists.md 
 
-删除导数第n个节点：https://github.com/AntonioSu/leetcode/blob/master/problems/19.RemoveNthNodeFromEndofList.md
+链表是否有环：https://github.com/AntonioSu/leetcode/blob/master/problems/141.LinkedListCycle.md 
+
+删除倒数第n个节点：https://github.com/AntonioSu/leetcode/blob/master/problems/19.RemoveNthNodeFromEndofList.md
