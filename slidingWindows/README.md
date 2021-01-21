@@ -6,3 +6,5 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/438.FindAllAnagramsin
 找到窗口内的最大值，双向队列解决  
 https://github.com/AntonioSu/leetcode/blob/master/problems/239.SlidingWindowMaximum.md  
 `Input: S = "ADOBECODEBANC", T = "ABC", Output: "BANC"`字符串S中包含T的最短字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/76.MinimumWindowSubstring.md  
+
+求固定长度窗口内的最大值：分别左右两个指针滑动求和https://github.com/AntonioSu/leetcode/blob/master/problems/643.MaximumAverageSubarrayI.md
