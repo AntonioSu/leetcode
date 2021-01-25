@@ -24,3 +24,5 @@
 链表是否有环：https://github.com/AntonioSu/leetcode/blob/master/problems/141.LinkedListCycle.md 
 
 删除倒数第n个节点：https://github.com/AntonioSu/leetcode/blob/master/problems/19.RemoveNthNodeFromEndofList.md
+
+将链表变成有序，这里使用的是直接插入法：https://github.com/AntonioSu/leetcode/blob/master/problems/147.InsertionSortList.md
