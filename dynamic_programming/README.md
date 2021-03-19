@@ -11,7 +11,7 @@
 
 7.给定字符串，字符串中包含负数，寻找连续的乘积最大值：https://github.com/AntonioSu/leetcode/blob/master/problems/152.MaximumProductSubarray.md 
 
-
+8.一个字符串能够由另一种字符串多少种表示：https://github.com/AntonioSu/leetcode/blob/master/problems/115.DistinctSubsequences.md
 
 **二、背包问题——下标具有意义**    
 1.给定各种钱币面值，求需要最少的硬币和为给定值：https://github.com/AntonioSu/leetcode/blob/master/problems/322_Coin_Change.md  
