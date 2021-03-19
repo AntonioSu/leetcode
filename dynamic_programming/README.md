@@ -13,6 +13,10 @@
 
 8.一个字符串能够由另一种字符串多少种表示：https://github.com/AntonioSu/leetcode/blob/master/problems/115.DistinctSubsequences.md
 
+
+
+
+
 **二、背包问题——下标具有意义**    
 1.给定各种钱币面值，求需要最少的硬币和为给定值：https://github.com/AntonioSu/leetcode/blob/master/problems/322_Coin_Change.md  
 2.给定数组，求子数组的和为给定值的个数；完全背包问题：https://github.com/AntonioSu/leetcode/blob/master/problems/377.CombinationSumIV.md  
