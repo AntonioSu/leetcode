@@ -2,9 +2,13 @@
 
 **一、其中dp[i]表示i节点的最终要求，i指示的是位置**  
 1.连续子数组的和最大：https://github.com/AntonioSu/leetcode/blob/master/problems/53.MaximumSubarray.md  
+
 2.爬楼梯；step[i]=step[i-1]+step[i-2]：https://github.com/AntonioSu/leetcode/blob/master/problems/70.ClimbingStairs.md  
+
 3.抢劫房屋，不偷相邻的：rob(i) = max(rob(i-2)+currentHouseValue,rob(i - 1))：https://github.com/AntonioSu/leetcode/blob/master/problems/198.HouseRobber.md  
+
 4.给定两个字符串，找最长公共子串的长度；samecount[row] [col]=samecount[row-1] [col-1]+1：https://github.com/AntonioSu/leetcode/blob/master/problems/718.MaximumLengthofRepeatedSubarray.md  
+
 5.给定三角形， 求从顶到底最短路径：https://github.com/AntonioSu/leetcode/blob/master/problems/120.Triangle.md 
 
 6.给定词组和字符串，求是否通过词组的组合变成字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/139.WordBreak.md 
@@ -12,6 +16,8 @@
 7.给定字符串，字符串中包含负数，寻找连续的乘积最大值：https://github.com/AntonioSu/leetcode/blob/master/problems/152.MaximumProductSubarray.md 
 
 8.一个字符串能够由另一种字符串多少种表示：https://github.com/AntonioSu/leetcode/blob/master/problems/115.DistinctSubsequences.md
+
+9.给定一个字符串，求子串的个数——如果一个字符没有出现过，则当前个数是前一个的两倍，否则，需要去重：https://github.com/AntonioSu/leetcode/blob/master/problems/940.DistinctSubsequencesII.md
 
 
 
@@ -25,7 +31,7 @@
 1) j<V(i)      dp(i,j)=dp(i-1,j)  // 如果当前容量小于第i个物品的重量，则不会装入此物品，故而最大价值仍然为V(i-1,j)  
 2) j>=V(i)     dp(i,j)=max｛ dp(i-1,j)，dp(i-1,j-V(i))+P(i) ｝//表示装入物品，但同时需要预留V(i)空间，才可装入当前物品，但是装入不一定价值最大，所以需要比较 
 
-3.给定数字，将其写成是和的形式，求其中和中每个值乘积最大：https://github.com/AntonioSu/leetcode/blob/master/problems/343.IntegerBreak.md 
+4.给定数字，将其写成是和的形式，求其中和中每个值乘积最大：https://github.com/AntonioSu/leetcode/blob/master/problems/343.IntegerBreak.md 
 
 
 
