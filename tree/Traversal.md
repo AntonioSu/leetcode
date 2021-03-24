@@ -26,13 +26,13 @@ zigzag遍历方法：https://github.com/AntonioSu/leetcode/blob/master/problems/
 给定二叉搜索树，第k个最小的值 :https://github.com/AntonioSu/leetcode/blob/master/problems/230.KthSmallestElementinaBST.md  
 二叉搜索树中查找值：https://github.com/AntonioSu/leetcode/blob/master/problems/700.SearchinaBinarySearchTree.md  
 给定二叉搜索树，插入值：https://github.com/AntonioSu/leetcode/blob/master/problems/701.InsertintoaBinarySearchTree.md  
-最近公共父节点：https://github.com/AntonioSu/leetcode/blob/master/problems/235.LowestCommonAncestorofaBinarySearchTree.md 
+最近公共父节点，树是二叉搜索树：https://github.com/AntonioSu/leetcode/blob/master/problems/235.LowestCommonAncestorofaBinarySearchTree.md 
 判断是否是二叉搜索树：https://github.com/AntonioSu/leetcode/blob/master/problems/98.ValidateBinarySearchTree.md
 
 
-找到最近公共父节点：https://github.com/AntonioSu/leetcode/blob/master/problems/236.LowestCommonAncestorofaBinaryTree.md 
+最近公共父节点，树是普通的树：https://github.com/AntonioSu/leetcode/blob/master/problems/236.LowestCommonAncestorofaBinaryTree.md 
 
-完全二叉树的节点个数；只要把左子树和右子树的节点个数相加在加根节点个数即可：https://github.com/AntonioSu/leetcode/blob/master/problems/222.CountCompleteTreeNodes.md 
+完全二叉树的节点个数——只要把左子树和右子树的节点个数相加在加根节点个数即可：https://github.com/AntonioSu/leetcode/blob/master/problems/222.CountCompleteTreeNodes.md 
 
 **3.构建树**
 
