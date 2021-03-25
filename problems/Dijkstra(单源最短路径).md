@@ -7,9 +7,7 @@
 
  对应的算法步骤如下：
 
-![image-20200401154304233](C:\Users\suwenyuan\AppData\Roaming\Typora\typora-user-images\image-20200401154304233.png)
-
-
+https://github.com/AntonioSu/leetcode/blob/master/picture/Dijkstra.png?raw=true
 
 解法一：先合并两个链表，而后再循环的合并每一个。
 
