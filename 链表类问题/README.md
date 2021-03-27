@@ -4,7 +4,9 @@
 ##### 逆转
 
 链表逆转：https://github.com/AntonioSu/leetcode/blob/master/problems/206.ReverseLinkedList.md  
-逆转指定区间的链表：https://github.com/AntonioSu/leetcode/blob/master/problems/92.ReverseLinkedListII.md    
+逆转指定区间的链表：https://github.com/AntonioSu/leetcode/blob/master/problems/92.ReverseLinkedListII.md 
+
+旋转链表——将链表转化为环，而后再寻找断开节点位置：https://github.com/AntonioSu/leetcode/blob/master/problems/61.RotateList.md   
 
 
 
