@@ -5,9 +5,15 @@
 
 前序遍历：https://github.com/AntonioSu/leetcode/blob/master/problems/144.BinaryTreePreorderTraversal.md
 
+
+
 **2)中序遍历** 
 
 中序遍历：https://github.com/AntonioSu/leetcode/blob/master/problems/94.BinaryTreeInorderTraversal.md
+
+中序遍历的一种应用：https://github.com/AntonioSu/leetcode/blob/master/problems/173.BinarySearchTreeIterator.md
+
+
 
 
 **3)后序遍历**
