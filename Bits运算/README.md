@@ -5,7 +5,17 @@
 
 给定字符串，找长度为10的字符串至少重复2次的子串：https://github.com/AntonioSu/leetcode/blob/master/problems/187.RepeatedDNASequences.md 
 
-只出现一次的数字：https://github.com/AntonioSu/leetcode/blob/master/problems/136.SingleNumber.md 
+
+
+#### 逆转
+
+将给定的int型数字转化为二进制，而后逆转：https://github.com/AntonioSu/leetcode/blob/master/problems190.ReverseBits.md
+
+
+
+#### 数字出现次数——异或运算
+
+只有一个数字出现一次，其他数字均出现两次：https://github.com/AntonioSu/leetcode/blob/master/problems/136.SingleNumber.md 
 
 只有两个数字出现一次，其他数字均出现两次：https://github.com/AntonioSu/leetcode/blob/master/problems/260.SingleNumberIII.md 
 
