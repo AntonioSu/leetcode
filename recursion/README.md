@@ -18,6 +18,10 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/207.CourseSchedule.md
 #### 三、无返回值类型，通过传参解决
 https://github.com/AntonioSu/leetcode/blob/master/problems/39.CombinationSum.md  
 
+寻找子集，数组无重复数字：https://github.com/AntonioSu/leetcode/blob/master/problems/78.Subsets.md
+
+寻找子集，数组中有重复数字：https://github.com/AntonioSu/leetcode/blob/master/problems/90.SubsetsII.md
+
 判断是否是数独：https://github.com/AntonioSu/leetcode/blob/master/problems/36.ValidSudoku.md
 
 数独，给定残缺的数独，补全空格：https://github.com/AntonioSu/leetcode/blob/master/problems/37.SudokuSolver.md
@@ -36,6 +40,17 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/39.CombinationSum.md
 有重复数字全排列：https://github.com/AntonioSu/leetcode/blob/master/problems/47.PermutationsII.md  
 将整个字符串分割为单个是回文的字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/131.PalindromePartitioning.md   
 
-
 2.使用index，每一向前移动1
 https://github.com/AntonioSu/leetcode/blob/master/problems/39.CombinationSum.md
+
+
+
+线性递归
+
+二分递归
+
+尾递归
+
+嵌套递归
+
+具体解释：http://www.combination.net.cn/index.php/2019/05/15/detail-about-recursion/
