@@ -34,3 +34,8 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/445.AddTwoNumbersII.m
 **大整数乘法**：给定两个string整数，返回相乘的结果的string  
 https://github.com/AntonioSu/leetcode/blob/master/problems/43.MultiplyStrings.md
 
+
+
+
+
+新的计算方式https://github.com/AntonioSu/leetcode/blob/master/problems/1006.ClumsyFactorial.md
