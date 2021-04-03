@@ -7,8 +7,6 @@
 
 3.抢劫房屋，不偷相邻的：rob(i) = max(rob(i-2)+currentHouseValue,rob(i - 1))：https://github.com/AntonioSu/leetcode/blob/master/problems/198.HouseRobber.md  
 
-4.给定两个字符串，找最长公共子串的长度；samecount[row] [col]=samecount[row-1] [col-1]+1：https://github.com/AntonioSu/leetcode/blob/master/problems/718.MaximumLengthofRepeatedSubarray.md  
-
 5.给定三角形， 求从顶到底最短路径：https://github.com/AntonioSu/leetcode/blob/master/problems/120.Triangle.md 
 
 6.给定词组和字符串，求是否通过词组的组合变成字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/139.WordBreak.md 
@@ -21,9 +19,27 @@
 
 
 
+#### 最长公共子串问题
+
+1.给定两个list，找最长公共子list的长度，连续——只考虑相等情况，samecount[row] [col]=samecount[row-1] [col-1]+1：https://github.com/AntonioSu/leetcode/blob/master/problems/718.MaximumLengthofRepeatedSubarray.md  
+
+2.给定两个字符串，找最长子串，不连续——不相等取最大值，相等则加1：https://github.com/AntonioSu/leetcode/blob/master/problems/1143.LongestCommonSubsequence.md
+
+3.最长连续上升子数组——hash表：https://github.com/AntonioSu/leetcode/blob/master/problems/128.LongestConsecutiveSequence.md
+
+4.最长递增子序列——https://github.com/AntonioSu/leetcode/blob/master/problems/300.LongestIncreasingSubsequence.md
 
 
-**二、背包问题——下标具有意义**    
+
+#### 编辑距离问题
+
+1.增、删、改三种操作，使两个字符串相等，求最短的编辑距离：https://github.com/AntonioSu/leetcode/blob/master/problems/72.EditDistance.md  
+
+2.删除两个字符串中的字符，使其相等：https://github.com/AntonioSu/leetcode/blob/master/problems/583.DeleteOperationforTwoStrings.md   
+
+
+
+#### 背包问题——下标具有意义    
 1.给定各种钱币面值，求需要最少的硬币和为给定值：https://github.com/AntonioSu/leetcode/blob/master/problems/322_Coin_Change.md  
 2.给定数组，求子数组的和为给定值的个数；完全背包问题：https://github.com/AntonioSu/leetcode/blob/master/problems/377.CombinationSumIV.md  
 3.完全背包问题：有N种物品和一个容量为T的背包，每种物品可以选择任意多个，第i种物品的价值为P[i]，体积为V[i]，求解：选哪些物品放入背包，可卡因使得这些物品的价值最大，并且体积总和不超过背包容量。  
@@ -35,7 +51,8 @@
 
 
 
-**三、从左上角到右下角走法**  
+#### 矩阵从左上角到右下角走法 
+
 1.给定两个数，表示m行n列，只能向右、向下从左上角到右下角，这样的路径数：https://github.com/AntonioSu/leetcode/blob/master/problems/62.UniquePaths.md  
 2.给定二维矩阵，矩阵中不同的整数值，找到一条最短路径，只能右、下：https://github.com/AntonioSu/leetcode/blob/master/problems/64.MinimumPathSum.md   
 3.给定二维矩阵，矩阵中不同的整数值，找到一条最短路径，只能右、下，加入了阻挡：https://github.com/AntonioSu/leetcode/blob/master/problems/63.UniquePathsII.md
@@ -50,11 +67,7 @@
 
 
 
-**五、编辑距离问题**
 
-换、改、变三种操作，使两个字符串相等，求最短的编辑距离：https://github.com/AntonioSu/leetcode/blob/master/problems/72.EditDistance.md  
-删除两个字符串中的字符，使其相等：https://github.com/AntonioSu/leetcode/blob/master/problems/583.DeleteOperationforTwoStrings.md   
-只能删除第一个字符串中的字符，求最长的公共子串的长度：https://github.com/AntonioSu/leetcode/blob/master/problems/1143.LongestCommonSubsequence.md 
 
 
 
