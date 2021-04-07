@@ -31,6 +31,8 @@
 
 将重复的数字都删除——提前两个节点判断：https://github.com/AntonioSu/leetcode/blob/master/problems/82.RemoveDuplicatesfromSortedListII.md
 
+移除链表中给定值的节点——需要两个指针，保存即将要删除节点的前一个节点和当前节点：https://github.com/AntonioSu/leetcode/blob/master/problems/203.RemoveLinkedListElements.md
+
 
 
 ##### 其他
