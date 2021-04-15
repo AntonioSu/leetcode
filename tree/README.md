@@ -13,6 +13,8 @@
 
 中序遍历的一种应用：https://github.com/AntonioSu/leetcode/blob/master/problems/173.BinarySearchTreeIterator.md
 
+给定二叉搜索树，任意两个节点的差值最小——中序遍历则可：https://github.com/AntonioSu/leetcode/blob/master/problems/783.MinimumDistanceBetweenBSTNodes
+
 
 
 
