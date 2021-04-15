@@ -27,6 +27,8 @@
 
 zigzag遍历方法：https://github.com/AntonioSu/leetcode/blob/master/problems/103.BinaryTreeZigzagLevelOrderTraversal.md 
 
+
+
 #### **2.BST**
 
 给定二叉搜索树，第k个最小的值 :https://github.com/AntonioSu/leetcode/blob/master/problems/230.KthSmallestElementinaBST.md  
@@ -40,8 +42,16 @@ zigzag遍历方法：https://github.com/AntonioSu/leetcode/blob/master/problems/
 
 完全二叉树的节点个数——只要把左子树和右子树的节点个数相加在加根节点个数即可：https://github.com/AntonioSu/leetcode/blob/master/problems/222.CountCompleteTreeNodes.md 
 
+
+
 **3.构建树**
 
 给定先序和中序，构建树：https://github.com/AntonioSu/leetcode/blob/master/problems/105.ConstructBinaryTreefromPreorderandInorderTraversal.md 
 
 给定排序的数组，构建二叉搜索树：https://github.com/AntonioSu/leetcode/blob/master/problems/108.ConvertSortedArraytoBinarySearchTree.md 
+
+
+
+**4.前缀树**
+
+建立一颗前缀树：https://github.com/AntonioSu/leetcode/blob/master/problems/208.ImplementTrie(PrefixTree).md
