@@ -17,6 +17,8 @@
 
 9.给定一个字符串，求子串的个数——如果一个字符没有出现过，则当前个数是前一个的两倍，否则，需要去重：https://github.com/AntonioSu/leetcode/blob/master/problems/940.DistinctSubsequencesII.md
 
+10.第n个丑数——通过数组记录丑数序列：https://github.com/AntonioSu/leetcode/blob/master/problems/264.UglyNumberII.md
+
 
 
 #### 最长公共子串问题
