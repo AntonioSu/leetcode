@@ -21,7 +21,12 @@
 **3)后序遍历**
 
 后序遍历：https://github.com/AntonioSu/leetcode/blob/master/problems/145.BinaryTreePostorderTraversal.md   
+
 寻找子树和出现次数最多的值：https://github.com/AntonioSu/leetcode/blob/master/problems/508.MostFrequentSubtreeSum.md 
+
+求区间内的和：https://github.com/AntonioSu/leetcode/blob/master/problems/938.RangeSumofBST.md
+
+
 
 **4)层次遍历**
 
