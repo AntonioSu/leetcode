@@ -7,6 +7,8 @@
 
 3.抢劫房屋，不偷相邻的：rob(i) = max(rob(i-2)+currentHouseValue,rob(i - 1))：https://github.com/AntonioSu/leetcode/blob/master/problems/198.HouseRobber.md  
 
+4.抢劫房屋，不偷相邻的，同时是环形数组——需要两次，一次遍历不包含头，一次不包含结尾：https://github.com/AntonioSu/leetcode/blob/master/problems/213.HouseRobberII.md
+
 5.给定三角形， 求从顶到底最短路径：https://github.com/AntonioSu/leetcode/blob/master/problems/120.Triangle.md 
 
 6.给定词组和字符串，求是否通过词组的组合变成字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/139.WordBreak.md 
