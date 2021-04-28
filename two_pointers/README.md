@@ -6,7 +6,7 @@
 
 求取数组中三个数字的和等于某值https://github.com/AntonioSu/leetcode/blob/master/problems/15.3Sum.md   
 
-
+一个整数能否等于两个整数的平方和——左右指针：https://github.com/AntonioSu/leetcode/blob/master/problems/633.SumofSquareNumbers.md
 
 
 
