@@ -41,9 +41,13 @@ zigzag遍历方法：https://github.com/AntonioSu/leetcode/blob/master/problems/
 #### **2.BST**
 
 给定二叉搜索树，第k个最小的值 :https://github.com/AntonioSu/leetcode/blob/master/problems/230.KthSmallestElementinaBST.md  
+
 二叉搜索树中查找值：https://github.com/AntonioSu/leetcode/blob/master/problems/700.SearchinaBinarySearchTree.md  
+
 给定二叉搜索树，插入值：https://github.com/AntonioSu/leetcode/blob/master/problems/701.InsertintoaBinarySearchTree.md  
+
 最近公共父节点，树是二叉搜索树：https://github.com/AntonioSu/leetcode/blob/master/problems/235.LowestCommonAncestorofaBinarySearchTree.md 
+
 判断是否是二叉搜索树：https://github.com/AntonioSu/leetcode/blob/master/problems/98.ValidateBinarySearchTree.md
 
 
@@ -64,3 +68,7 @@ zigzag遍历方法：https://github.com/AntonioSu/leetcode/blob/master/problems/
 **4.前缀树**
 
 建立一颗前缀树：https://github.com/AntonioSu/leetcode/blob/master/problems/208.ImplementTrie(PrefixTree).md
+
+
+
+判断一棵树是否为另一棵树的子树：https://github.com/AntonioSu/leetcode/blob/master/problems/572.SubtreeofAnotherTree.md
