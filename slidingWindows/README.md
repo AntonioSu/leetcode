@@ -10,3 +10,5 @@
 求固定长度窗口内的最大值：分别左右两个指针滑动求和：https://github.com/AntonioSu/leetcode/blob/master/problems/643.MaximumAverageSubarrayI.md
 
 无重复字符的最长子串——借用一个map，记录窗口内不重复的值：https://github.com/AntonioSu/leetcode/blob/master/problems/3.LongestSubstringWithoutRepeatingCharacters.md
+
+窗口内的值最大——只需要循环窗口内的值即可：https://github.com/AntonioSu/leetcode/blob/master/problems/643.MaximumAverageSubarrayI.md

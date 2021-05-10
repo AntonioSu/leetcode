@@ -1,8 +1,16 @@
 ## 双指针
-### 左右指针
+### 1.左右指针
+
+
+#### 1.1计算面积
+
 计算在坐标上围成的面积最大，坐标轴不计算在内：https://github.com/AntonioSu/leetcode/blob/master/problems/11.ContainerWithMostWater.md  
 
 计算在坐标上围成的面积最大，坐标轴计算在内：https://github.com/AntonioSu/leetcode/blob/master/problems/42.TrappingRainWater.md  
+
+
+
+#### 1.2数值计算
 
 求取数组中三个数字的和等于某值https://github.com/AntonioSu/leetcode/blob/master/problems/15.3Sum.md   
 
@@ -10,9 +18,11 @@
 
 求固定长度窗口内的最大值：分别左右两个指针滑动求和：https://github.com/AntonioSu/leetcode/blob/master/problems/643.MaximumAverageSubarrayI.md
 
+使数组中的奇数在前，偶数在后——首尾指针即可：https://github.com/AntonioSu/leetcode/blob/master/problems/剑指Offer21.调整数组顺序使奇数位于偶数前面.md
 
 
-### 快慢指针  
+
+### 2.快慢指针——这种类型题目一般需要借助map来实现  
 
 `Input: S = "ADOBECODEBANC", T = "ABC", Output: "BANC"`字符串S中包含T的最短字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/76.MinimumWindowSubstring.md  
 
