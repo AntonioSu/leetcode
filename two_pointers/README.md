@@ -8,6 +8,8 @@
 
 一个整数能否等于两个整数的平方和——左右指针：https://github.com/AntonioSu/leetcode/blob/master/problems/633.SumofSquareNumbers.md
 
+求固定长度窗口内的最大值：分别左右两个指针滑动求和：https://github.com/AntonioSu/leetcode/blob/master/problems/643.MaximumAverageSubarrayI.md
+
 
 
 ### 快慢指针  
@@ -17,4 +19,6 @@
 找到最短子序列，和大于等于某值：https://github.com/AntonioSu/leetcode/blob/master/problems/209.MinimumSizeSubarraySum.md
 
 给定一个字符串，找到最长的包含最多k个相同字符的子串——快慢指针，同时需要一个hash表记录区间的字符个数：https://github.com/AntonioSu/leetcode/blob/master/problems/340.LongestSubstringwithAtMostKDistinctCharacters.md
+
+无重复字符的最长子串——借用一个map，记录窗口内不重复的值：https://github.com/AntonioSu/leetcode/blob/master/problems/3.LongestSubstringWithoutRepeatingCharacters.md
 
