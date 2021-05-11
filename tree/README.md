@@ -5,6 +5,8 @@
 
 前序遍历：https://github.com/AntonioSu/leetcode/blob/master/problems/144.BinaryTreePreorderTraversal.md
 
+两个树的叶子节点值相同——分别对两棵树保存list，而后判断list是否相等：https://github.com/AntonioSu/leetcode/blob/master/problems/872.Leaf-SimilarTrees.md
+
 
 
 **2)中序遍历** 
