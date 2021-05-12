@@ -27,3 +27,6 @@
 给定一个异或之后的数组，求原数组——先求第一个值，而后再求之后的值：https://github.com/AntonioSu/leetcode/blob/master/problems/1734.DecodeXORedPermutation.md
 
 对start+2*i的数异或——遍历一遍即可：https://github.com/AntonioSu/leetcode/blob/master/problems/1486.XOROperationinanArray.md
+
+区间内的结果异或——利用一个数组，先异或前n个值：https://github.com/AntonioSu/leetcode/blob/master/problems/1310.XORQueriesofaSubarray.md
+
