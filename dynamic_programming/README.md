@@ -22,6 +22,8 @@
 
 10.第n个丑数——通过数组记录丑数序列：https://github.com/AntonioSu/leetcode/blob/master/problems/264.UglyNumberII.md
 
+11.青蛙是否可以从开始节点跳到尾结点——设置二维dp[i] [k],表示青蛙能否达到「现在所处的石子编号」为 i且「上一次跳跃距离」为 k 的状态:https://github.com/AntonioSu/leetcode/blob/master/problems/403.FrogJump.md
+
 
 
 #### 二、最长公共子串问题
