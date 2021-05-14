@@ -24,6 +24,8 @@
 
 11.青蛙是否可以从开始节点跳到尾结点——设置二维dp[i] [k],表示青蛙能否达到「现在所处的石子编号」为 i且「上一次跳跃距离」为 k 的状态:https://github.com/AntonioSu/leetcode/blob/master/problems/403.FrogJump.md
 
+12.从位置0开始，既可以左移、右移、原地，给定steps，求有多少种移动方法可以移动到原地：https://github.com/AntonioSu/leetcode/blob/master/problems/1269.NumberofWaystoStayintheSamePlaceAfterSomeSteps.md
+
 
 
 #### 二、最长公共子串问题
@@ -88,7 +90,7 @@
 
 
 
-**六、正则匹配问题**
+#### 七、匹配问题
 
 给定字符串和正则表达式，判断是否匹配：https://github.com/AntonioSu/leetcode/blob/master/problems/10.RegularExpressionMatching.md    
 给定字符串和正则表达式，判断是否匹配：https://github.com/AntonioSu/leetcode/blob/master/problems/44.WildcardMatching.md 
