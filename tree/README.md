@@ -7,6 +7,8 @@
 
 两个树的叶子节点值相同——分别对两棵树保存list，而后判断list是否相等：https://github.com/AntonioSu/leetcode/blob/master/problems/872.Leaf-SimilarTrees.md
 
+两个节点为同一深度，但是不能是同一个父节点下的左右子节点：https://github.com/AntonioSu/leetcode/blob/master/problems/993.二叉树的堂兄弟节点.md
+
 
 
 **2)中序遍历** 
