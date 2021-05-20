@@ -73,6 +73,10 @@ zigzag遍历方法：https://github.com/AntonioSu/leetcode/blob/master/problems/
 
 建立一颗前缀树：https://github.com/AntonioSu/leetcode/blob/master/problems/208.ImplementTrie(PrefixTree).md
 
+建立前缀树，而后再判断：https://github.com/AntonioSu/leetcode/blob/master/problems/421.数组中两个数的最大异或值.md
+
+
+
 
 
 判断一棵树是否为另一棵树的子树：https://github.com/AntonioSu/leetcode/blob/master/problems/572.SubtreeofAnotherTree.md

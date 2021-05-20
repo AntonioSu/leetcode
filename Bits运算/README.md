@@ -31,3 +31,5 @@
 区间内的结果异或——利用一个数组，先异或前n个值：https://github.com/AntonioSu/leetcode/blob/master/problems/1310.XORQueriesofaSubarray.md
 
 形成两个异或相等数组的三元组数目：https://github.com/AntonioSu/leetcode/blob/master/problems/1442.形成两个异或相等数组的三元组数目.md
+
+建立前缀树，而后再判断：https://github.com/AntonioSu/leetcode/blob/master/problems/421.数组中两个数的最大异或值.md
