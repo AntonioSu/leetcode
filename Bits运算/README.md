@@ -1,4 +1,4 @@
-**位运算题目**
+#### **位运算题目**
 
 求两个数的和，不用加减：https://github.com/AntonioSu/leetcode/blob/master/problems/371.SumofTwoIntegers.md  
 
@@ -30,3 +30,4 @@
 
 区间内的结果异或——利用一个数组，先异或前n个值：https://github.com/AntonioSu/leetcode/blob/master/problems/1310.XORQueriesofaSubarray.md
 
+形成两个异或相等数组的三元组数目：https://github.com/AntonioSu/leetcode/blob/master/problems/1442.形成两个异或相等数组的三元组数目.md
