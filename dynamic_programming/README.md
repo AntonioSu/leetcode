@@ -26,6 +26,8 @@
 
 12.从位置0开始，既可以左移、右移、原地，给定steps，求有多少种移动方法可以移动到原地：https://github.com/AntonioSu/leetcode/blob/master/problems/1269.NumberofWaystoStayintheSamePlaceAfterSomeSteps.md
 
+https://github.com/AntonioSu/leetcode/blob/master/problems/664.奇怪的打印机.md
+
 
 
 #### 二、最长公共子串问题
