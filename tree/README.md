@@ -75,7 +75,7 @@ zigzag遍历方法：https://github.com/AntonioSu/leetcode/blob/master/problems/
 
 建立前缀树，而后再判断：https://github.com/AntonioSu/leetcode/blob/master/problems/421.数组中两个数的最大异或值.md
 
-
+https://github.com/AntonioSu/leetcode/blob/master/problems/1707.与数组中元素的最大异或值.md
 
 
 
