@@ -36,7 +36,7 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/664.奇怪的打印�
 
 2. 给定两个字符串，找最长子串，不连续——不相等取最大值，相等则加1：https://github.com/AntonioSu/leetcode/blob/master/problems/1143.LongestCommonSubsequence.md
 
-3. 和最长公共子串的思路相同：https://github.com/AntonioSu/leetcode/blob/master/problems/1035.不相交的线.md
+3. 和最长公共子串的思路相同：https://github.com/AntonioSu/leetcode/blob/master/problems/1035.Uncrossed-Lines.md
 
 4. 最长连续上升子数组——hash表：https://github.com/AntonioSu/leetcode/blob/master/problems/128.LongestConsecutiveSequence.md
 
@@ -56,18 +56,22 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/664.奇怪的打印�
 
 #### 四、背包问题
 
-##### 1）01背包   
+##### 1）01背包 ——需要将物品数也表示在下表中，第一维一般表示物品，一般至少需要2维数组
 
-1. dp[i] [j] 为 nums[0,...,i] 运算结果等于 j 的不同表达式的数目,i=0,...,len(nums)-1 j=[-Sum,...,Sum] :https://github.com/AntonioSu/leetcode/blob/master/problems/494.Target-Sum.md
+1. 给定整数和数组，只能使用+或者-，使数组的值等于整数，有多种表达式——dp[i] [j] 为 前i个数字运算结果等于 j 的不同表达式的数目:https://github.com/AntonioSu/leetcode/blob/master/problems/494.Target-Sum.md
 2. dp[k] [i] [j] 代表考虑前 k 件物品，在数字 1 容量不超过 i，数字 0 容量不超过 j的条件下的"最大价值":https://github.com/AntonioSu/leetcode/blob/master/problems/474.Ones-and-Zeroes.md
-3. 给定数字，将其写成是和的形式，求其中和中每个值乘积最大：https://github.com/AntonioSu/leetcode/blob/master/problems/343.IntegerBreak.md 
+3. 给定数组，将数组分割为两个子list，是否使得两个list的和相等——dp[i] [j]表示前i个数字是否存在和为j：https://github.com/AntonioSu/leetcode/blob/master/problems/416.PartitionEqualSubsetSum.md
+4. 给定数字，将其写成是和的形式，求其中和中每个值乘积最大：https://github.com/AntonioSu/leetcode/blob/master/problems/343.IntegerBreak.md 
 
-##### 1）完全背包
+
+
+##### 2）完全背包——不需要记录物品，dp[i]就表示所求，一般一维数组则可
 
 1. 给定各种钱币面值，求需要最少的硬币和为给定值：https://github.com/AntonioSu/leetcode/blob/master/problems/322_Coin_Change.md  
 2. 给定总金额和数组，数组中的元素有无限个，求有多少种取法，使得从数组中取出的总和等于给定金额——dp[i]表示满足金额是i的方案数：https://github.com/AntonioSu/leetcode/blob/master/problems/518.Coin-Change-2.md
 3. 给定数组，求子数组的和为给定值的个数；完全背包问题：https://github.com/AntonioSu/leetcode/blob/master/problems/377.CombinationSumIV.md  
-4. 完全背包问题：有N种物品和一个容量为T的背包，每种物品可以选择任意多个，第i种物品的价值为P[i]，体积为V[i]，求解：选哪些物品放入背包，可卡因使得这些物品的价值最大，并且体积总和不超过背包容量。  
+4. 给定整数n，找寻组成和为n的完全平方数最少——dp[i]表示组合和为i的个数最少：https://github.com/AntonioSu/leetcode/blob/master/problems/279.Perfect-Squares.md
+5. 完全背包问题：有N种物品和一个容量为T的背包，每种物品可以选择任意多个，第i种物品的价值为P[i]，体积为V[i]，求解：选哪些物品放入背包，可卡因使得这些物品的价值最大，并且体积总和不超过背包容量。  
    二维数组dp(i,j)：前 i 个物品，背包容量 j，所能取得的最大价值。  
    1) j<V(i)      dp(i,j)=dp(i-1,j)  // 如果当前容量小于第i个物品的重量，则不会装入此物品，故而最大价值仍然为V(i-1,j)  
    2) j>=V(i)     dp(i,j)=max｛ dp(i-1,j)，dp(i-1,j-V(i))+P(i) ｝//表示装入物品，但同时需要预留V(i)空间，才可装入当前物品，但是装入不一定价值最大，所以需要比较 
