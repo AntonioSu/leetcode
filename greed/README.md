@@ -8,4 +8,6 @@
 
 给定list，每个值表示可以跳的步数，判断是否能到最后： https://github.com/AntonioSu/leetcode/blob/master/problems/55.JumpGame.md
 
+给定list，每个值表示可以跳的步数，用最少的步数调到最后：https://github.com/AntonioSu/leetcode/blob/master/problems/45.Jump-Game-II.md
+
 将字符串分割为最多的字符串，要求每个字符必须出现在同一个片段中：https://github.com/AntonioSu/leetcode/blob/master/problems/763.PartitionLabels.md
