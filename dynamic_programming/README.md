@@ -111,4 +111,8 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/664.奇怪的打印�
 
 
 
+#### 八、 其他
+
+给定偶数堆石子，每堆石子是一个整型，只能从两端取，求先手是否赢得比赛：https://github.com/AntonioSu/leetcode/blob/master/problems/877.Stone-Game.md
+
 https://github.com/AntonioSu/leetcode/blob/master/problems/312.BurstBalloons.md 
