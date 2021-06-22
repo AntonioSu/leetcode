@@ -40,6 +40,8 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/39.CombinationSum.md
 有重复数字全排列：https://github.com/AntonioSu/leetcode/blob/master/problems/47.PermutationsII.md  
 将整个字符串分割为单个是回文的字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/131.PalindromePartitioning.md   
 
+字符串全排列：https://github.com/AntonioSu/leetcode/blob/master/problems/剑指Offer38.字符串的排列.md
+
 2.使用index，每一向前移动1
 https://github.com/AntonioSu/leetcode/blob/master/problems/39.CombinationSum.md
 
