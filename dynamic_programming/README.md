@@ -110,9 +110,14 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/664.奇怪的打印�
 给定字符串和正则表达式，判断是否匹配：https://github.com/AntonioSu/leetcode/blob/master/problems/44.WildcardMatching.md 
 
 
+#### 八、 最短路径
 
-#### 八、 其他
+限制最多K次中转：https://github.com/AntonioSu/leetcode/blob/master/problems/787.Cheapest-Flights-Within-K-Stops.md
+
+#### 九、 其他
 
 给定偶数堆石子，每堆石子是一个整型，只能从两端取，求先手是否赢得比赛：https://github.com/AntonioSu/leetcode/blob/master/problems/877.Stone-Game.md
 
 https://github.com/AntonioSu/leetcode/blob/master/problems/312.BurstBalloons.md 
+
+
