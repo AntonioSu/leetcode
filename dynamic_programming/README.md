@@ -38,11 +38,9 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/664.奇怪的打印�
 
 3. 和最长公共子串的思路相同：https://github.com/AntonioSu/leetcode/blob/master/problems/1035.Uncrossed-Lines.md
 
-4. 最长连续上升子数组——hash表：https://github.com/AntonioSu/leetcode/blob/master/problems/128.LongestConsecutiveSequence.md
+4. 最长递增子序列——https://github.com/AntonioSu/leetcode/blob/master/problems/300.LongestIncreasingSubsequence.md
 
-5. 最长递增子序列——https://github.com/AntonioSu/leetcode/blob/master/problems/300.LongestIncreasingSubsequence.md
-
-6. 最长整除子集——记录最长长度和最长长度路径：https://github.com/AntonioSu/leetcode/blob/master/problems/368.LargestDivisibleSubset.md
+5. 最长整除子集——记录最长长度和最长长度路径：https://github.com/AntonioSu/leetcode/blob/master/problems/368.LargestDivisibleSubset.md
 
 
 
