@@ -6,7 +6,9 @@
 
 2.给定数组有序，求数组中两个数的和为给定值：https://github.com/AntonioSu/leetcode/blob/master/problems/167.TwoSumII-Inputarrayissorted.md    
 
-3.给定有序数组，求数组中的两个数何为给定值，数组包含重复个数：https://github.com/AntonioSu/leetcode/blob/master/problems/two_sum_sort_repetition.md
+3.给定有序数组，求数组中的两个数和为给定值，数组包含重复的数字：https://github.com/AntonioSu/leetcode/blob/master/problems/two_sum_sort_repetition.md
+
+4.给定无序数组，求数组中的两个数和为给定值，数组包含重复的数字：https://github.com/AntonioSu/leetcode/blob/master/problems/two_sum_repetition.md
 
 **Three sum类问题**  
 
