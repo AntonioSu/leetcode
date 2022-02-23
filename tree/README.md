@@ -80,3 +80,5 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/1707.与数组中元�
 
 
 判断一棵树是否为另一棵树的子树：https://github.com/AntonioSu/leetcode/blob/master/problems/572.SubtreeofAnotherTree.md
+
+搜索自动补全系统，利用前缀树完成：https://github.com/AntonioSu/leetcode/blob/master/problems/642.DesignSearchAutocompleteSystem.md
