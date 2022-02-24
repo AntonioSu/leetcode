@@ -3,28 +3,18 @@
 #### **一、其中dp[i]表示i节点的最终要求，i指示的是位置**  
 
 1. 连续子数组的和最大：https://github.com/AntonioSu/leetcode/blob/master/problems/53.MaximumSubarray.md  
-
 2. 爬楼梯；step[i]=step[i-1]+step[i-2]：https://github.com/AntonioSu/leetcode/blob/master/problems/70.ClimbingStairs.md  
-
-3. 抢劫房屋，不偷相邻的：rob(i) = max(rob(i-2)+currentHouseValue,rob(i - 1))：https://github.com/AntonioSu/leetcode/blob/master/problems/198.HouseRobber.md  
-
-4. 抢劫房屋，不偷相邻的，同时是环形数组——需要两次，一次遍历不包含头，一次不包含结尾：https://github.com/AntonioSu/leetcode/blob/master/problems/213.HouseRobberII.md
-
-5. 给定三角形， 求从顶到底最短路径：https://github.com/AntonioSu/leetcode/blob/master/problems/120.Triangle.md 
-
-6. 给定词组和字符串，求是否通过词组的组合变成字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/139.WordBreak.md 
-
-7. 给定字符串，字符串中包含负数，寻找连续的乘积最大值：https://github.com/AntonioSu/leetcode/blob/master/problems/152.MaximumProductSubarray.md 
-
-8. 一个字符串能够由另一种字符串多少种表示：https://github.com/AntonioSu/leetcode/blob/master/problems/115.DistinctSubsequences.md
-
-9. 给定一个字符串，求子串的个数——如果一个字符没有出现过，则当前个数是前一个的两倍，否则，需要去重：https://github.com/AntonioSu/leetcode/blob/master/problems/940.DistinctSubsequencesII.md
-
-10. 第n个丑数——通过数组记录丑数序列：https://github.com/AntonioSu/leetcode/blob/master/problems/264.UglyNumberII.md
-
-11. 青蛙是否可以从开始节点跳到尾结点——设置二维dp[i] [k],表示青蛙能否达到「现在所处的石子编号」为 i且「上一次跳跃距离」为 k 的状态:https://github.com/AntonioSu/leetcode/blob/master/problems/403.FrogJump.md
-
-12. 从位置0开始，既可以左移、右移、原地，给定steps，求有多少种移动方法可以移动到原地：https://github.com/AntonioSu/leetcode/blob/master/problems/1269.NumberofWaystoStayintheSamePlaceAfterSomeSteps.md
+3. 将数字转化为字母，有多少种转化法，有条件的跳台阶：https://github.com/AntonioSu/leetcode/blob/master/problems/剑指Offer46.把数字翻译成字符串.md
+4. 抢劫房屋，不偷相邻的：rob(i) = max(rob(i-2)+currentHouseValue,rob(i - 1))：https://github.com/AntonioSu/leetcode/blob/master/problems/198.HouseRobber.md  
+5. 抢劫房屋，不偷相邻的，同时是环形数组——需要两次，一次遍历不包含头，一次不包含结尾：https://github.com/AntonioSu/leetcode/blob/master/problems/213.HouseRobberII.md
+6. 给定三角形， 求从顶到底最短路径：https://github.com/AntonioSu/leetcode/blob/master/problems/120.Triangle.md 
+7. 给定词组和字符串，求是否通过词组的组合变成字符串：https://github.com/AntonioSu/leetcode/blob/master/problems/139.WordBreak.md 
+8. 给定字符串，字符串中包含负数，寻找连续的乘积最大值：https://github.com/AntonioSu/leetcode/blob/master/problems/152.MaximumProductSubarray.md 
+9. 一个字符串能够由另一种字符串多少种表示：https://github.com/AntonioSu/leetcode/blob/master/problems/115.DistinctSubsequences.md
+10. 给定一个字符串，求子串的个数——如果一个字符没有出现过，则当前个数是前一个的两倍，否则，需要去重：https://github.com/AntonioSu/leetcode/blob/master/problems/940.DistinctSubsequencesII.md
+11. 第n个丑数——通过数组记录丑数序列：https://github.com/AntonioSu/leetcode/blob/master/problems/264.UglyNumberII.md
+12. 青蛙是否可以从开始节点跳到尾结点——设置二维dp[i] [k],表示青蛙能否达到「现在所处的石子编号」为 i且「上一次跳跃距离」为 k 的状态:https://github.com/AntonioSu/leetcode/blob/master/problems/403.FrogJump.md
+13. 从位置0开始，既可以左移、右移、原地，给定steps，求有多少种移动方法可以移动到原地：https://github.com/AntonioSu/leetcode/blob/master/problems/1269.NumberofWaystoStayintheSamePlaceAfterSomeSteps.md
 
 https://github.com/AntonioSu/leetcode/blob/master/problems/664.奇怪的打印机.md
 
