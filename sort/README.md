@@ -16,6 +16,8 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/220.ContainsDuplicate
 
 2）寻找K个常见的字符串——利用最小值堆：https://github.com/AntonioSu/leetcode/blob/master/problems/692.前K个高频单词.md
 
+3）寻找数组中的中位数，通过大顶堆和小顶堆https://github.com/AntonioSu/leetcode/blob/master/problems/295.FindMedianfromDataStream.md
+
 #### 4. 快排
 
 纯快排的实现 https://github.com/AntonioSu/leetcode/blob/master/problems/quick_sort.md
@@ -23,3 +25,5 @@ https://github.com/AntonioSu/leetcode/blob/master/problems/220.ContainsDuplicate
 #### 5. 归并
 
 纯归并的实现 https://github.com/AntonioSu/leetcode/blob/master/problems/MergeSort.md
+
+给定数组，统计逆序数对：https://github.com/AntonioSu/leetcode/blob/master/problems/剑指Offer51.数组中的逆序对.md
