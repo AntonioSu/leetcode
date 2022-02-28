@@ -46,6 +46,8 @@ zigzag遍历方法：https://github.com/AntonioSu/leetcode/blob/master/problems/
 
 给定二叉搜索树，第k个最小的值 :https://github.com/AntonioSu/leetcode/blob/master/problems/230.KthSmallestElementinaBST.md  
 
+给定二叉搜索树，找第k大节点——中序逆操作：https://github.com/AntonioSu/leetcode/blob/master/problems/剑指Offer54.二叉搜索树的第k大节点.md
+
 二叉搜索树中查找值：https://github.com/AntonioSu/leetcode/blob/master/problems/700.SearchinaBinarySearchTree.md  
 
 给定二叉搜索树，插入值：https://github.com/AntonioSu/leetcode/blob/master/problems/701.InsertintoaBinarySearchTree.md  
