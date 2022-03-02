@@ -10,7 +10,7 @@
 
 求固定长度窗口内的最大值，解法三的**双端队列**中保存的是有front到back**递减**的num：https://github.com/AntonioSu/leetcode/blob/master/problems/239.SlidingWindowMaximum.md
 
-
+最长递增子序列，设置单调栈：https://github.com/AntonioSu/leetcode/blob/master/problems/300.LongestIncreasingSubsequence.md
 
 ##### 进一步融合问题
 
