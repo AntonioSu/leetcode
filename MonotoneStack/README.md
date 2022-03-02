@@ -8,6 +8,8 @@
 
 高于当前温度需要等待多少天：https://github.com/AntonioSu/leetcode/blob/master/problems/739.DailyTemperatures.md
 
+求固定长度窗口内的最大值，解法三的**双端队列**中保存的是有front到back**递减**的num：https://github.com/AntonioSu/leetcode/blob/master/problems/239.SlidingWindowMaximum.md
+
 
 
 ##### 进一步融合问题
