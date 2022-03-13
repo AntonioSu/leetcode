@@ -34,6 +34,8 @@
 
 求区间内的和：https://github.com/AntonioSu/leetcode/blob/master/problems/938.RangeSumofBST.md
 
+多叉树的后续遍历：https://github.com/AntonioSu/leetcode/blob/master/problems/590.n-ary-tree-postorder-traversal.md
+
 
 
 **4)层次遍历**
