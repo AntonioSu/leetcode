@@ -9,6 +9,8 @@
 
 旋转链表——将链表转化为环，而后再寻找断开节点位置：https://github.com/AntonioSu/leetcode/blob/master/problems/61.RotateList.md   
 
+将链表按照此种方式逆转，L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 ——寻找中间节点，逆转后半部分，合并前半部分和后半部分： https://github.com/AntonioSu/leetcode/blob/master/problems/143.reorder-list.md
+
 
 
 ##### 合并
