@@ -11,6 +11,8 @@
 
 将链表按照此种方式逆转，L0 → Ln → L1 → Ln - 1 → L2 → Ln - 2 ——寻找中间节点，逆转后半部分，合并前半部分和后半部分： https://github.com/AntonioSu/leetcode/blob/master/problems/143.reorder-list.md
 
+ 将链表按照k个一组逆转：https://github.com/AntonioSu/leetcode/blob/master/problems/25.reverse-nodes-in-k-group.md
+
 
 
 ##### 合并
