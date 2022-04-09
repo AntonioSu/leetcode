@@ -44,6 +44,8 @@
 
 zigzag遍历方法：https://github.com/AntonioSu/leetcode/blob/master/problems/103.BinaryTreeZigzagLevelOrderTraversal.md 
 
+树的层次遍历，使用队列：https://github.com/AntonioSu/leetcode/blob/master/problems/429.n-ary-tree-level-order-traversal.md
+
 
 
 #### **2.BST**
