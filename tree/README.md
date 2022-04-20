@@ -76,8 +76,13 @@ zigzag遍历方法：https://github.com/AntonioSu/leetcode/blob/master/problems/
 给定排序的数组，构建二叉搜索树：https://github.com/AntonioSu/leetcode/blob/master/problems/108.ConvertSortedArraytoBinarySearchTree.md 
 
 
+**4.树的深度**
 
-**4.前缀树**
+给定二叉树，计算树的最大深度：https://github.com/AntonioSu/leetcode/blob/master/problems/104.maximum-depth-of-binary-tree.md
+
+给定二叉树，计算任意两个节点的最大距离,树深度的一个应用题目：https://github.com/AntonioSu/leetcode/blob/master/problems/543.diameter-of-binary-tree.md
+
+**5.前缀树**
 
 建立一颗前缀树：https://github.com/AntonioSu/leetcode/blob/master/problems/208.ImplementTrie(PrefixTree).md
 
